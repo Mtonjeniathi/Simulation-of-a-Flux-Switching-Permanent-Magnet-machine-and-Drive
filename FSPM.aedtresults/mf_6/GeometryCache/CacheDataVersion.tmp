@@ -1,0 +1,13 @@
+$begin 'CacheDataVersion'
+	DataVersion=5
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	mm='2mm'
+	y_1='2mm'
+	y_2='2mm'
+	y_3='2mm'
+	y_4='2mm'
+	y_5='2mm'
+	y_6='2mm'
+	y_7='2mm'
+$end 'VariableValues'

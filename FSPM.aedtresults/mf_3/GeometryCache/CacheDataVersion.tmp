@@ -1,0 +1,12 @@
+$begin 'CacheDataVersion'
+	DataVersion=10
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	deltagap='0in'
+	curr='10000A'
+	y1='3mm'
+	x1='58mm'
+	y2='6mm'
+	x2='87mm'
+	y3='10mm'
+$end 'VariableValues'
